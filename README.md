@@ -6,8 +6,8 @@ Simple script to automate creating a powershell script that injects shellcode in
 
 `PS > .\generate-script.ps1 <shellcode filename> <script filename>`
 
-shellcode filename: raw shellcode to inject
-script filename: powershell script to create
+  **shellcode filename**: raw shellcode to inject
+  **script filename**: powershell script to create
 
 ## References
 
